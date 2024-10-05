@@ -1,0 +1,10 @@
+.imgani{
+    animation:iani 3s infinite;
+}
+
+@keyframes iani {
+    0%{}
+    100%{
+        transform:rotateY(360deg);
+    }
+}

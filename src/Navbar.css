@@ -1,0 +1,26 @@
+.transition-nav:active{
+    animation:rani .6s ease-in-out;
+}
+
+@keyframes rani{
+    0%{
+        transform:rotate(0deg);
+    }
+    100%{
+        transform:rotate(270deg);
+    }
+}
+
+.lani:hover{
+    animation-delay:.5s;
+    animation:ltani 1s ease-in-out;
+}
+
+@keyframes ltani{
+    0%{
+        /* border-bottom: 2px solid white; */
+    }
+    100%{
+        border-bottom: 2px solid white;
+    }
+}
