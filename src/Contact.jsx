@@ -9,14 +9,14 @@ export default function Contact(){
         <div className="p-2 m-2 mx-auto">
             <h1 className="text-center underline-offset-4 underline">My Socials</h1><br />
             <div className="flex justify-evenly p-2 m-2">
-            <span className="p-2 m-2 border-2 border-solid border-white cursor-pointer rounded-2xl hover:text-white">
+            <span className="p-2 m-2 border-2 border-solid border-white cursor-pointer rounded-2xl hover:text-white hover:bg-black">
                 <a href="https://github.com/Ayushxvx" target="_blank">
                 <h3 className="text-center">
                 Github &nbsp; <FaGithub className="inline-block"/>
                 </h3>
                 </a>
             </span>
-            <span className="p-2 m-2 border-2 border-solid border-white cursor-pointer rounded-2xl hover:text-white">
+            <span className="p-2 m-2 border-2 border-solid border-white cursor-pointer rounded-2xl hover:text-white hover:bg-black">
                 <a href="https://www.linkedin.com/in/ayush-verma-a31050293" target="_blank">
                 <h3 className="text-center">
                 Linkedin &nbsp; <FaLinkedin className="inline-block"/>
