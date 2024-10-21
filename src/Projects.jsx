@@ -20,7 +20,7 @@ export default function Projects(){
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 text-[#E0E0E0] p-2 m-2 gap-6">
 
 <div data-aos="fade-up" class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 p-2 m-2 mx-auto">
-        <img class="rounded-t-lg" src="./project1.png" alt="Mystic Forum Project" />
+        <img class="rounded-t-lg" src="./project1.png.png" alt="Mystic Forum Project" />
     <div class="p-5">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Youtube Clone</h5>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">It is a full stack youtube clone with authentication and many more features including like , dislike and comments.</p>
